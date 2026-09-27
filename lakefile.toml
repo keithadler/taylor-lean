@@ -1,0 +1,6 @@
+name = "Taylor"
+defaultTargets = ["Taylor"]
+
+[[lean_lib]]
+name = "Taylor"
+roots = ["Taylor"]
